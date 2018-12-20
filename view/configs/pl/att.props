@@ -1,0 +1,10 @@
+alert.attGaleryDeletedErrPic= Do tej galerii s&#261; przypisane zdj&#281;cia!<br>Je&#347;li chcesz skasowa&#263; t&#261; galeri&#281; musisz najpierw usun&#261;&#263; wszystkie zdj&#281;cia z tej galerii.
+alert.attGaleryDeletedErr= Galeria nie zosta&#322;a skasowana!
+alert.attGaleryDeleted= Galeria zosta&#322;a skasowana.
+alert.attGalerySave= Galeria zosta&#322;a zapisana.
+alert.attNavGalery= Galeria
+alert.attNavPathGalery= lista
+
+alert.attDeleted= Za&#322;&#261;czniki zoasta&#322;y skasowane.
+alert.attAdded= Za&#322;&#261;cznik zosta&#322; dodany.
+alert.attDescUpdated= Opisy za&#322;&#261;cznik&#243;w zosta&#322;y uaktualnione.

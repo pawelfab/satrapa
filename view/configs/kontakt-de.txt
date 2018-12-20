@@ -1,0 +1,2 @@
+Die E-Mail wurde gesendet.<br>Wir bedanken uns f&#252;r den Kontakt!
+Die Dienstleistung ist im Moment nicht zug&#228;nglich. Besitzt du einen konfigurierten Kunden der Post im System, klicke <a href="mailto:{0}"><u>hier</u></a>. Versuche sp&#228;ter.

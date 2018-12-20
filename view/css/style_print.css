@@ -1,0 +1,51 @@
+html, body{
+  float: none !important;
+  margin:0px;
+  padding:0px;
+  font-family: Verdana;
+  font-size:16px;
+  text-align:center;
+  size:landscape;
+  background-color: white !important;
+	background-image: none !important;
+}
+#container{
+  #border:1px solid #377DC7;
+  float: none !important;
+  width:903px;
+  height:auto;
+  margin:0px auto 0px auto;
+}
+#logo1 ul{
+	float:left;
+	display:block;
+	margin:20px auto 0px auto;
+}
+#logo1 li{
+	
+	list-style:none;
+	margin-right:20px;
+}
+#miasto{
+margin:110px 90px auto auto;
+float:right;
+}
+#content ul{
+	float:none;
+	display:block;
+	margin:200px auto 0px auto;
+}
+#content li{
+	 text-align:left;
+	list-style:none;
+	margin:40px auto 60px 50px;
+}
+#sign ul {
+	margin:130px auto 60px 70px;
+	display:block;
+}
+#sign li{
+	margin:20px 210px 20px 20px;
+	list-style:none;
+	display:inline;
+}

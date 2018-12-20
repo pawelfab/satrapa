@@ -1,0 +1,65 @@
+# NEWS USE
+news.use.kalendarium=kalendarium
+news.use.links =linki
+news.use.static = Tre&#347;ci
+news.use.guestbook = książka gości
+news.use.news = News
+news.use.case = Case studies
+news.use.project = Projekty
+news.use.team = Zespół
+news.use.music = Music
+news.use.specials = Specials
+ 
+subDir.Kalendarium=Kalendarium
+subDir.Links=Linki
+subDir.Playlist=Playlista
+subDir.Static=Statyczne
+subDir.Guestbook=Ksi&#281;ga go&#347;ci
+
+cat_name = Nazwa kategorii
+cat_description = Opis kategorii
+cat_availability = Aktywno&#347;ć
+cat_useAs = Use like
+
+confirm_delete_category = Do you want delete this category?
+
+search_search = Szukaj
+search_title = Tytuł
+search_date = Data
+search_show = Pokaż
+search_select = Wybież
+
+newsNavPath=Kategoria: {0}
+newsNav=News
+newsesNav=Newses
+
+nns_add1_desc = Dodatkowe pole 1
+nns_add2_desc = Dodatkowe pole 2
+nns_add3_desc = Dodatkowe pole 3
+nns_add4_desc = Dodatkowe pole 4
+nns_add5_desc = Dodatkowe pole 5
+
+ns_go_to_news = Powrót do listy
+ns_new_news = Utwórz nowy
+ns_save_news = Zapisz
+
+alert.noPermition= Brak uprawnie&#324;!
+
+alert.categorySaved= Kategoria zosta&#322;a zapisana
+alert.categoryNoSaved= Kategoria nie zosta&#322;a zapisana.
+alert.categoryDeleted= Category deleted
+alert.categoryNoDeleted= Kategoria nie zosta&#322;a skasowana.
+alert.categoryNoDeletedAreNewses= Kategoria nie zosta&#322;a skasowana. Do tej kategorii s&#261; przypisane newsy!<br>Je&#347;li chcesz skasowa&#263; musisz najpierw usun&#261;&#263; wszystkie newsy z tej kategorii.
+
+alert.picAdded= Zdj&#281;cie zosta&#322;o dodane
+alert.picNoAdded= Zdj&#281;cie nie zosta&#322;o dodane
+alert.picDeleted= Zdj&#281;cie zosta&#322;o skasowane
+alert.picNoDeleted= Zdj&#281;cie nie zosta&#322;o skasowane
+
+alert.newsSaved= News zosta&#322; zapisany
+alert.newsNoSaved= News nie zosta&#322; zapisany
+alert.newsDeleted= News zosta&#322; skasowany!
+alert.newsNoDeleted= News nie zosta&#322; skasowany!
+alert.newsNoResults= Brak news&#243;w w tej kategorii
+
+

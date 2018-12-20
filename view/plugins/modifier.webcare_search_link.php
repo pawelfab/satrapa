@@ -1,0 +1,30 @@
+<?php
+/**
+ * Smarty plugin
+ * @package Smarty
+ * @subpackage plugins
+ */
+
+
+/**
+ * Smarty upper modifier plugin
+ *
+ * Type:     modifier<br>
+ * Name:     upper<br>
+ * Purpose:  convert string to uppercase
+ * @link http://smarty.php.net/manual/en/language.modifier.upper.php
+ *          upper (Smarty online manual)
+ * @param string
+ * @return string
+ */
+function smarty_modifier_webcare_search_link($source)
+{
+		switch($source) {
+			case 'PRODCAT' : return 'productt.php?idpc=';
+			case 'PRODUCT' : return 'product.php?idpr=';
+			case 'NEWS' : return 'news.php?idn=';
+			default: return '';
+		}
+}
+
+?>

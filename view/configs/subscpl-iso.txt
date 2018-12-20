@@ -1,0 +1,15 @@
+Niepoprawny email. Proszê poprawiæ email.
+B³±d systemu. Prosze spróbowaæ po¼niej lub skontaktowaæ siê {0}
+Twój email jest ju¿ potwierdzony.
+W celu podwierdzenia subskrypcji proszê klikn±æ w poni¿szy link:
+Potwierdzenie subskrypcji.
+--- Mail wys³any ze strony {0} ---
+Proszê poczekaæ na maila w kórym bêd± dalsze instrukcje.
+B³±d w wysy³aniu maila.
+Twój email zosta³ dodany do subscrubcji!
+Nieprawid³owy token!
+B³±d systemu. Prosze spróbowaæ po¿niej lub skontaktowaæ siê {0}
+Twój email zosta³ usuniêty do subscrybcji!
+Nieprawid³owy token!
+B³&plusmn;d systemu. Proszê spróbowaæ po¼niej lub skontaktowaæ siê {0}
+<b>Zamów subskrypcjê</b><br>Je¶li chcesz byæ informowany o nowo¶ciach w naszym serwisie, ofertach promocyjnych podaj swój adres e-mail.

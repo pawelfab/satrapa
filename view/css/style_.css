@@ -1,0 +1,103 @@
+﻿html, body{
+  float:none;
+  margin:5px;
+  padding:0px;
+  font-family: Comic Sans MS,Verdana, Arial, Helvetica, sans-serif;
+  font-size:16px;
+  text-align:center;
+  color:#343434;
+  background-color:#95f5e2;
+	
+}
+
+	
+#container{
+  border:1px solid #377DC7;
+	background-color:#86dcb5;
+  float:right;
+  width:770px;
+  height:auto;
+  margin:10px auto 10px auto;
+}
+#container1{
+	
+  border:1px solid #377DC7;
+  text-align:center;
+	background-color:#86dcb5;
+  float:left;
+  width:200px;
+  height:auto;
+  margin:10px auto 0px auto;
+  }
+ul{
+	width:400px;
+	margin:20px auto 0px auto;
+}
+li{
+	display:inline;
+	list-style:none;
+	margin-right:20px;
+}
+li a, li a:visited{
+	color:#377DC7;
+	font-weight:bold;
+	text-decoration:none;
+}
+li a:hover{text-decoration:underline}
+input{
+border:1px solid #377DC7;
+	margin:auto;
+	width:150px;
+	clear:both;
+	margin-bottom:10px;}
+form{
+	width:200px;
+	margin:auto;
+	margin-top:150px;
+}
+.wyslij{
+	width:50px;
+}
+h3{
+	color:#19b7b5;
+}
+h5{
+	color:#009900;
+}
+.red{
+	color: red;
+}
+.list{
+	clear:both;
+	width:500px;
+	margin:20px auto 0px auto;
+}
+td {font-size:11px;}
+.naglowek{color:#11955c; 
+font-size:16px;
+font-weight:bold}
+.add{
+	float:left;
+	margin:20px 0px 20px 50px;
+}
+.edytuj{
+  width:50px;
+  height:30px;
+}
+.edytuj1{width:90px;
+  height:30px;
+  font-family: Comic Sans MS;
+  font-size:16px;
+  font-weight:bold;
+  font-style:italic;
+  
+	color: #23a28f;
+  }
+ .edytuj2{width:90px;
+  height:30px;
+  font-family: Comic Sans MS;
+  font-size:8px;
+  font-weight:bold;
+  font-style:italic;
+  
+	color: #23a28f;

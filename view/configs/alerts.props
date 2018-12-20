@@ -1,0 +1,92 @@
+alert.noPermition= No permition!
+alert.saved = Data saved.
+alert.deleted = Data deleted.
+err.saved = Saving error!
+row.removed = Record removed
+
+alert.requestSent = Your request was sent. Please wait for answer.
+alert.errorRequestSent = System error. Please try later.
+
+alert.contactWithAdmin = Please contact with {0}
+
+#
+#	NAVIGATOR - Nodes
+#
+alert.nodeSaved= Node has been saved.
+alert.nodeNoSaved= Error. Node not saved!
+alert.nodeDeleted= Node has been deleted.
+alert.nodeNoDeleted= Node has not been deleted!
+
+nav.Node = Edit node
+nav.Nodes = Nodes
+
+deleteNode.cantRemove= You can not delete this node.
+deleteNode.areChilds= First you have to delete all child nodes.
+deleteNode.areResources= First you have to disconnect node's resource.
+deleteNode.done= Node has been deleted.
+
+empty=&nbsp;
+
+nav.Catalogue = List of Countries/Regions
+nav.CatalogueItem = Catalogue item
+
+#
+#	LOGIN
+#
+nav.Login = Login
+login.err1 = Wrong data, please try again.
+login.err2 = Database error, please try again or contact with WebCare administator. Error:
+
+#
+#	USERS
+#
+nav.Users = Users
+alert.userDeleted = User deleted
+alert.userAdded = User added
+alert.userSaved = User updated
+
+#
+#	Admin
+#
+nav.Admin = Admin
+alert.adminDeleted = Admin deleted
+alert.adminAdded = Admin added
+alert.adminSaved = Admin updated
+
+
+#
+# HELP
+#
+nav.Help = About
+
+#
+# FORUM
+#
+nav.Forum = Forum - Comments
+
+#
+# META
+#
+nav.Meta = Meta tags
+meta.tmp.err = Temp error.
+
+# SUBSCRIPTION
+alert.maillingSomeEmptyFields= Some fields are empty!
+alert.maillingPrepared= Mailing prepared!
+alert.maillingNav= Newsletter
+alert.maillingFileSaveError= Save error!
+alert.maillingFileFormatError= File format error!
+alert.maillingOtherError= Other error: {0}
+alert.maillingCountMail= Found {0} items.
+alert.maillingNavEdit= E-mails edit 
+alert.maillingEmptyIdent= Error: empty ident!
+alert.maillingSent= Error: This email has been already sent:<br>Logs:<br>
+alert.maillingIdentError= Ident error!
+alert.maillingAltBody= HTML format E-mail! Your email browser is not able to open this email.
+alert.maillingUpdated=Email <b>{0}</b> has been updated
+alert.maillingNoUpdated=Error! Email <b>{0}</b> has not been updated
+alert.maillingAdded=Email <b>{0}</b> has been added
+alert.maillingNoAdded=Error! Email <b>{0}</b> has not been added
+alert.maillingNoMail=No mail found.
+alert.sent=Sent
+button.Close=Close window

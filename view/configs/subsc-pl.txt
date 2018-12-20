@@ -1,0 +1,17 @@
+Niepoprawny email. Proszę poprawić email.
+Błąd systemu. Prosze spróbować poźniej lub skontaktować się z {0}
+Twój email jest już potwierdzony.
+W celu podwierdzenia subskrypcji proszę kliknąć w poniższy link:
+Potwierdzenie subskrypcji.
+--- Mail wysłany ze strony {0} ---
+Proszę poczekać na maila, w którym będą dalsze instrukcje.
+Błąd w wysyłaniu maila.
+Twój email został dodany do subskrybcji!
+Nieprawidłowy token!
+Błąd systemu. Prosze spróbować poźniej lub skontaktować się z {0}
+Twój email został usunięty z subskrybcji!
+Nieprawidłowy token!
+Błąd systemu. Prosze spróbować poźniej lub skontaktować się z {0}
+<b>Zamów subskrypcję</b><br>Jeżeli chcesz być informowany o nowościach w naszym serwisie, ofertach promocyjnych podaj swój adres e-mail.
+Jeśli chcesz zrezygnować z subskrybcji, kliknij poniższy link:
+Ten adres jest już dodany do subskrybji. W celu zrezygnowania z subskrybcji proszę poczekać na maila z instrukcjami.

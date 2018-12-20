@@ -1,0 +1,15 @@
+E-mail format is wrong. Please correct e-mail.
+System error. Please try layter or contact with {0}.
+Your e-mail is confirmed yet.
+Click the link button to confirmed your account.
+Confirmation subskryption.
+--- Email send from {0} ---
+You should receive a confirmation in email soon.
+Error sending mail.
+Thank you for subscribing.
+Wrong token!
+System error. Please try layter or contact with {0}.
+Your email is deleted from subscription!
+Wrong token!
+System error. Please try later or contact with {0}.
+<b>Order subskryption</b><br>Type in your e-mail address and click the Submit button to subscribe your account. 

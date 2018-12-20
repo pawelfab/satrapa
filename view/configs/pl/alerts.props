@@ -1,0 +1,33 @@
+
+
+alert.noPermition= Brak uprawnie&#324;!
+alert.saved = Dane zapisane
+err.saved = Błąd podczas zapisu
+
+#
+#	NAVIGATOR - Nodes
+#
+alert.nodeSaved= Węzeł zosta&#322; zapisany.
+alert.nodeNoSaved= Węzeł nie zosta&#322; zapisany!
+alert.nodeDeleted= Węzeł zosta&#322; skasowany!
+alert.nodeNoDeleted= Węzeł nie zosta&#322; skasowany!
+
+nav.Node = Edycja węzła
+nav.Nodes = Węzły
+
+deleteNode.cantRemove= Nie możesz skasować tego węzła.
+deleteNode.areChilds= Najpierw musisz skasować węzły podrzędne.
+deleteNode.areResources= Najpierw musisz odłączyć zasoby.
+deleteNode.done= Węzeł został skasowany.
+
+empty=&nbsp;
+
+#
+#	LOGIN
+#
+nav.Login = Logowanie
+login.err1 = Błędne dane, spróbuj jeszcze raz.
+login.err2 = Błąd bazy danych. Jeżeli będzie się powtarzał, skontaktuj się z administratorem systemu podając poniższy błąd:
+
+
+nav.Help = O programie

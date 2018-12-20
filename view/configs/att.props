@@ -1,0 +1,13 @@
+alert.attGaleryDeletedErrPic= This gallery has some attachments!<br>First you must delete all attachments from this galery.
+alert.attGaleryDeletedErr= Gallery has not been deleted!
+alert.attGaleryDeleted= Gallery deleted.
+alert.attGalerySave= Gallery saved.
+alert.attNavGalery= Gallery
+alert.attNavPathGalery= List
+
+alert.attDeleted= Attachments deleted.
+alert.attAdded= Attachment added.
+alert.attDescUpdated= Descriptions of attachments saved.
+
+attach_primary = Primary
+attach_submit_primary = Set

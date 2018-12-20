@@ -1,0 +1,29 @@
+alert.noPermition= Brak dost&#281;pu!
+
+# USERS
+alert.userDeleted= U&#380;ytkownik zosta&#322; skasowany.
+alert.userAdded= U&#380;ytkownik zosta&#322; dodany.
+alert.userSaved= U&#380;ytkownik zosta&#322; zapisany.
+alert.userNav= U&#380;ytkownicy
+
+# SUBSCRIPTION
+alert.maillingSomeEmptyFields= Prosz&#281; uzupe&#322;ni&#263; wszystkie pola!
+alert.maillingPrepared= Mailing zosta&#322; przygotowany!
+alert.maillingNav= Subskrypcja
+alert.maillingFileSaveError= B&#322;&#261;d zapisu!
+alert.maillingFileFormatError= B&#322;&#281;dny format pliku!
+alert.maillingOtherError= Inny b&#322;&#261;d: {0}
+alert.maillingCountMail= Znaleziono wynik&#243;w: {0}.
+alert.maillingNoMail= Nie znaleziono żadnych wynik&#243;w.
+alert.maillingNavEdit= Edycja mail'i
+alert.maillingEmptyIdent= Error: brak identyfikatora
+alert.maillingSent= Error: Ten maling zosta&#322; ju&#380; wys&#322;any:<br>LOGI:<br>
+alert.maillingIdentError= Error: B&#322;&#281;dny identyfikator
+alert.maillingAltBody= Ta wiadomo&#347;&#263; jest w formacie HTML. Tw&#243;j klient poczty nie potrafi odczyta&#263; tej wiadomo&#347;ci.
+alert.maillingUpdated=Email <b>{0}</b> zostal zmodyfikowany
+alert.maillingNoUpdated=B&#322;&#261;d! Email <b>{0}</b> nie zostal zmodyfikowany
+alert.maillingAdded=Email <b>{0}</b> został dodany
+alert.maillingNoAdded=B&#322;&#261;d! Email <b>{0}</b> nie zostałdodany
+
+alert.sent=Wyślij
+button.Close=Zamknij okno

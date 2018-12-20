@@ -1,0 +1,15 @@
+Niepoprawny email. Prosz&#281; poprawi&#263; email.
+B&#322;&#261;d systemu. Prosze spr&#243;bowa&#263; po&#260;niej lub skontaktowa&#263; si&#281; {0}
+Tw&#243;j email jest ju&#380; potwierdzony.
+W celu podwierdzenia subskrypcji proszê klikn±æ w poni¿szy link:
+Potwierdzenie subskrypcji.
+--- Mail wys³any ze strony {0} ---
+Prosz&#281; poczeka&#263; na maila w k&#243;rym b&#281;d&#261; dalsze instrukcje.
+B&#322;&#261;d w wysy&#322;aniu maila.
+Tw&#243;j email zosta&#322; dodany do subscrubcji!
+Nieprawid&#322;owy token!
+B&#322;&#261;d systemu. Prosze spr&#243;bowa&#263; po&#380;niej lub skontaktowa&#263; si&#281; {0}
+Tw&#243;j email zosta&#322; usuni&#281;ty do subscrybcji!
+Nieprawid&#322;owy token!
+B&#322;&plusmn;d systemu. Prosz&#281; spr&#243;bowa&#263; po&#260;niej lub skontaktowa&#263; si&#281; {0}
+<b>Zam&#243;w subskrypcj&#281;</b><br>Je&#347;li chcesz by&#263; informowany o nowo&#347;ciach w naszym serwisie, ofertach promocyjnych podaj sw&#243;j adres e-mail.

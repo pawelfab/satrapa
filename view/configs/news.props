@@ -1,0 +1,63 @@
+# NEWS USE
+news.use.kalendarium=kalendarium
+news.use.links =linki
+news.use.static = Content
+news.use.guestbook = guest book
+news.use.news = News
+news.use.case = Case studies
+news.use.project = Project
+news.use.team = Team
+news.use.music = Music
+news.use.specials = Specials
+ 
+subDir.Kalendarium=Kalendarium
+subDir.Links=Linki
+subDir.Playlist=Playlista
+subDir.Static=Statyczne
+subDir.Guestbook=Ksi&#281;ga go&#347;ci
+
+cat_name = Category name
+cat_description = Category description
+cat_availability = Availability
+cat_useAs = Use like
+
+confirm_delete_category = Do you want delete this category?
+
+search_search = Search
+search_title = Title
+search_date = Date
+search_show = Show
+search_select = Choose
+
+newsNavPath=Category: {0}
+newsNav=News
+newsesNav=News
+
+nns_add1_desc = Additional field 1
+nns_add2_desc = Additional field 2
+nns_add3_desc = Additional field 3
+nns_add4_desc = Additional field 4
+nns_add5_desc = Additional field 5
+
+ns_go_to_news = Return to list
+ns_new_news = Create new
+ns_save_news = Save
+
+alert.noPermition= No permition!
+
+alert.categorySaved= Category saved.
+alert.categoryNoSaved= Category has not been saved.
+alert.categoryDeleted= Category deleted.
+alert.categoryNoDeleted= Category has not been deleted.
+alert.categoryNoDeletedAreNewses= Category has not been deleted. This category has some posts.<br>First you must delete all posts from this category.
+
+alert.picAdded= Picture added.
+alert.picNoAdded= Picture has not been added.
+alert.picDeleted= Picture deleted.
+alert.picNoDeleted= Picture has not been deleted.
+
+alert.newsSaved= Post saved.
+alert.newsNoSaved= Post has not been saved.
+alert.newsDeleted= Post deleted!
+alert.newsNoDeleted= Post has not been deleted!
+alert.newsNoResults= No post in this category.
